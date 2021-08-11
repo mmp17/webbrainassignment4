@@ -66,6 +66,11 @@ body {
                   
 }
 
+.form label{
+    display: inline-block;
+    width: 150px;
+}
+
 .story {
     margin-top: 20px;
     padding: 20px;
